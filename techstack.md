@@ -4,8 +4,8 @@
 martin-creator/alx-backend-storage is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [MongoDB](http://www.mongodb.com/) – Databases
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [MongoDB](http://www.mongodb.com/) – Databases
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 martin-creator/alx-backend-storage is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [martin-creator/alx-backend-storage](https://github.com/martin-creator/alx-backend-storage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|02/04/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
